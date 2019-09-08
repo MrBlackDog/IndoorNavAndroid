@@ -1,0 +1,2 @@
+rootProject.name='Wifi Indoor Navigation'
+include ':app'

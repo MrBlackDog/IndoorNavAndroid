@@ -1,0 +1,187 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Projects\ARTack\WifiIndoorNavigation\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from D:\Projects\ARTack\WifiIndoorNavigation\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from D:\Projects\ARTack\WifiIndoorNavigation\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from D:\Projects\ARTack\WifiIndoorNavigation\app\src\main\AndroidManifest.xml:2:1-30:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Sasha\.gradle\caches\transforms-2\files-2.1\16e34cc941ca560f1ce786850088f542\material-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Sasha\.gradle\caches\transforms-2\files-2.1\5bf030364be1628a6f9f63ab6e371a98\appcompat-1.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Sasha\.gradle\caches\transforms-2\files-2.1\d8e4cf1c5effa27ee872934b5d590923\fragment-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Sasha\.gradle\caches\transforms-2\files-2.1\42ac22b99008b274c7933ade81dbb76f\vectordrawable-animated-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Sasha\.gradle\caches\transforms-2\files-2.1\37b07b0af1af2aafd34c7f4178894857\recyclerview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Sasha\.gradle\caches\transforms-2\files-2.1\5e75dc9500a8800a19ee48edcd9ad91b\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-beta01] C:\Users\Sasha\.gradle\caches\transforms-2\files-2.1\34c38af73fccc60f468863b2af613f5b\coordinatorlayout-1.1.0-beta01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Sasha\.gradle\caches\transforms-2\files-2.1\8138252b08e2926be578c6ca607972da\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\Sasha\.gradle\caches\transforms-2\files-2.1\6d97eb0f6d8183ed301f22cca813399a\vectordrawable-1.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Sasha\.gradle\caches\transforms-2\files-2.1\bc5fd2321421e1868cfcd17b87b15ef9\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Sasha\.gradle\caches\transforms-2\files-2.1\4e2b5312859a4add836ca427f9185971\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Sasha\.gradle\caches\transforms-2\files-2.1\521f36082ba2ebfff3134b14049d8392\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Sasha\.gradle\caches\transforms-2\files-2.1\1410242d4ef985e32783d8097bac5af8\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Sasha\.gradle\caches\transforms-2\files-2.1\a2820c8ee6ea054be8163c452f7d6b39\transition-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Sasha\.gradle\caches\transforms-2\files-2.1\35c3fbd601ae0234480e07fc02c66070\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Sasha\.gradle\caches\transforms-2\files-2.1\80daeaca6f036ab992d59d7f985648c0\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Sasha\.gradle\caches\transforms-2\files-2.1\ba941ec3e51f9e63a28205390b7e1196\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0-rc01] C:\Users\Sasha\.gradle\caches\transforms-2\files-2.1\399a3cab45ccfefa982b2d5781eea703\core-1.1.0-rc01\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] C:\Users\Sasha\.gradle\caches\transforms-2\files-2.1\7aca424ebf8b772c19458fc4a6f7e049\versionedparcelable-1.1.0-rc01\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Sasha\.gradle\caches\transforms-2\files-2.1\3a157abb854187fccd45caa1b51d7a6d\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Sasha\.gradle\caches\transforms-2\files-2.1\6cb605609ce3e0233def045dd08f32ea\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Sasha\.gradle\caches\transforms-2\files-2.1\a4800bd69aa5f1fb4a3075fb1b945104\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Sasha\.gradle\caches\transforms-2\files-2.1\728270ae329d44b91e2272f2a2469b7f\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Sasha\.gradle\caches\transforms-2\files-2.1\424f8cee47ad96d5bf5ccdac145707ac\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Sasha\.gradle\caches\transforms-2\files-2.1\ba1861cb5fdc02af084f1b568e0f9bd4\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Sasha\.gradle\caches\transforms-2\files-2.1\d9e1c8e93250f2776f11901c821c4137\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Sasha\.gradle\caches\transforms-2\files-2.1\b18dae995bcdf20fc7dd2fe5b67b8a1e\lifecycle-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Sasha\.gradle\caches\transforms-2\files-2.1\3315cd4f34fecbb914c0547ad83f8664\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Sasha\.gradle\caches\transforms-2\files-2.1\f33aa17185c3708a5ad836b0b67dcf82\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Sasha\.gradle\caches\transforms-2\files-2.1\4035bab8ba83c8378e720680d30eb8a9\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\Projects\ARTack\WifiIndoorNavigation\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from D:\Projects\ARTack\WifiIndoorNavigation\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from D:\Projects\ARTack\WifiIndoorNavigation\app\src\main\AndroidManifest.xml:2:1-30:12
+	package
+		ADDED from D:\Projects\ARTack\WifiIndoorNavigation\app\src\main\AndroidManifest.xml:3:5-47
+		INJECTED from D:\Projects\ARTack\WifiIndoorNavigation\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Projects\ARTack\WifiIndoorNavigation\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Projects\ARTack\WifiIndoorNavigation\app\src\main\AndroidManifest.xml
+		ADDED from D:\Projects\ARTack\WifiIndoorNavigation\app\src\main\AndroidManifest.xml:2:1-30:12
+		INJECTED from D:\Projects\ARTack\WifiIndoorNavigation\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Projects\ARTack\WifiIndoorNavigation\app\src\main\AndroidManifest.xml
+		ADDED from D:\Projects\ARTack\WifiIndoorNavigation\app\src\main\AndroidManifest.xml:2:1-30:12
+		INJECTED from D:\Projects\ARTack\WifiIndoorNavigation\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Projects\ARTack\WifiIndoorNavigation\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\Projects\ARTack\WifiIndoorNavigation\app\src\main\AndroidManifest.xml:5:5-75
+	android:name
+		ADDED from D:\Projects\ARTack\WifiIndoorNavigation\app\src\main\AndroidManifest.xml:5:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from D:\Projects\ARTack\WifiIndoorNavigation\app\src\main\AndroidManifest.xml:6:5-75
+	android:name
+		ADDED from D:\Projects\ARTack\WifiIndoorNavigation\app\src\main\AndroidManifest.xml:6:22-73
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\Projects\ARTack\WifiIndoorNavigation\app\src\main\AndroidManifest.xml:7:5-78
+	android:name
+		ADDED from D:\Projects\ARTack\WifiIndoorNavigation\app\src\main\AndroidManifest.xml:7:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from D:\Projects\ARTack\WifiIndoorNavigation\app\src\main\AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from D:\Projects\ARTack\WifiIndoorNavigation\app\src\main\AndroidManifest.xml:8:22-78
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\Projects\ARTack\WifiIndoorNavigation\app\src\main\AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from D:\Projects\ARTack\WifiIndoorNavigation\app\src\main\AndroidManifest.xml:9:22-78
+application
+ADDED from D:\Projects\ARTack\WifiIndoorNavigation\app\src\main\AndroidManifest.xml:10:5-28:19
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Sasha\.gradle\caches\transforms-2\files-2.1\16e34cc941ca560f1ce786850088f542\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Sasha\.gradle\caches\transforms-2\files-2.1\16e34cc941ca560f1ce786850088f542\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.core:core:1.1.0-rc01] C:\Users\Sasha\.gradle\caches\transforms-2\files-2.1\399a3cab45ccfefa982b2d5781eea703\core-1.1.0-rc01\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0-rc01] C:\Users\Sasha\.gradle\caches\transforms-2\files-2.1\399a3cab45ccfefa982b2d5781eea703\core-1.1.0-rc01\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] C:\Users\Sasha\.gradle\caches\transforms-2\files-2.1\7aca424ebf8b772c19458fc4a6f7e049\versionedparcelable-1.1.0-rc01\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] C:\Users\Sasha\.gradle\caches\transforms-2\files-2.1\7aca424ebf8b772c19458fc4a6f7e049\versionedparcelable-1.1.0-rc01\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0-rc01] C:\Users\Sasha\.gradle\caches\transforms-2\files-2.1\399a3cab45ccfefa982b2d5781eea703\core-1.1.0-rc01\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from D:\Projects\ARTack\WifiIndoorNavigation\app\src\main\AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from D:\Projects\ARTack\WifiIndoorNavigation\app\src\main\AndroidManifest.xml:13:9-41
+	android:icon
+		ADDED from D:\Projects\ARTack\WifiIndoorNavigation\app\src\main\AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from D:\Projects\ARTack\WifiIndoorNavigation\app\src\main\AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from D:\Projects\ARTack\WifiIndoorNavigation\app\src\main\AndroidManifest.xml:15:9-40
+activity#com.example.wifiindoornavigation.MainActivity
+ADDED from D:\Projects\ARTack\WifiIndoorNavigation\app\src\main\AndroidManifest.xml:16:9-26:20
+	android:label
+		ADDED from D:\Projects\ARTack\WifiIndoorNavigation\app\src\main\AndroidManifest.xml:18:13-45
+	android:configChanges
+		ADDED from D:\Projects\ARTack\WifiIndoorNavigation\app\src\main\AndroidManifest.xml:19:13-74
+	android:theme
+		ADDED from D:\Projects\ARTack\WifiIndoorNavigation\app\src\main\AndroidManifest.xml:20:13-56
+	android:name
+		ADDED from D:\Projects\ARTack\WifiIndoorNavigation\app\src\main\AndroidManifest.xml:17:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Projects\ARTack\WifiIndoorNavigation\app\src\main\AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from D:\Projects\ARTack\WifiIndoorNavigation\app\src\main\AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from D:\Projects\ARTack\WifiIndoorNavigation\app\src\main\AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Projects\ARTack\WifiIndoorNavigation\app\src\main\AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from D:\Projects\ARTack\WifiIndoorNavigation\app\src\main\AndroidManifest.xml:24:27-74
+uses-sdk
+INJECTED from D:\Projects\ARTack\WifiIndoorNavigation\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Projects\ARTack\WifiIndoorNavigation\app\src\main\AndroidManifest.xml
+INJECTED from D:\Projects\ARTack\WifiIndoorNavigation\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Sasha\.gradle\caches\transforms-2\files-2.1\16e34cc941ca560f1ce786850088f542\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Sasha\.gradle\caches\transforms-2\files-2.1\16e34cc941ca560f1ce786850088f542\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Sasha\.gradle\caches\transforms-2\files-2.1\5bf030364be1628a6f9f63ab6e371a98\appcompat-1.0.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Sasha\.gradle\caches\transforms-2\files-2.1\5bf030364be1628a6f9f63ab6e371a98\appcompat-1.0.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Sasha\.gradle\caches\transforms-2\files-2.1\d8e4cf1c5effa27ee872934b5d590923\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Sasha\.gradle\caches\transforms-2\files-2.1\d8e4cf1c5effa27ee872934b5d590923\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Sasha\.gradle\caches\transforms-2\files-2.1\42ac22b99008b274c7933ade81dbb76f\vectordrawable-animated-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Sasha\.gradle\caches\transforms-2\files-2.1\42ac22b99008b274c7933ade81dbb76f\vectordrawable-animated-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Sasha\.gradle\caches\transforms-2\files-2.1\37b07b0af1af2aafd34c7f4178894857\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Sasha\.gradle\caches\transforms-2\files-2.1\37b07b0af1af2aafd34c7f4178894857\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Sasha\.gradle\caches\transforms-2\files-2.1\5e75dc9500a8800a19ee48edcd9ad91b\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Sasha\.gradle\caches\transforms-2\files-2.1\5e75dc9500a8800a19ee48edcd9ad91b\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-beta01] C:\Users\Sasha\.gradle\caches\transforms-2\files-2.1\34c38af73fccc60f468863b2af613f5b\coordinatorlayout-1.1.0-beta01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-beta01] C:\Users\Sasha\.gradle\caches\transforms-2\files-2.1\34c38af73fccc60f468863b2af613f5b\coordinatorlayout-1.1.0-beta01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Sasha\.gradle\caches\transforms-2\files-2.1\8138252b08e2926be578c6ca607972da\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Sasha\.gradle\caches\transforms-2\files-2.1\8138252b08e2926be578c6ca607972da\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\Sasha\.gradle\caches\transforms-2\files-2.1\6d97eb0f6d8183ed301f22cca813399a\vectordrawable-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\Sasha\.gradle\caches\transforms-2\files-2.1\6d97eb0f6d8183ed301f22cca813399a\vectordrawable-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Sasha\.gradle\caches\transforms-2\files-2.1\bc5fd2321421e1868cfcd17b87b15ef9\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Sasha\.gradle\caches\transforms-2\files-2.1\bc5fd2321421e1868cfcd17b87b15ef9\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Sasha\.gradle\caches\transforms-2\files-2.1\4e2b5312859a4add836ca427f9185971\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Sasha\.gradle\caches\transforms-2\files-2.1\4e2b5312859a4add836ca427f9185971\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Sasha\.gradle\caches\transforms-2\files-2.1\521f36082ba2ebfff3134b14049d8392\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Sasha\.gradle\caches\transforms-2\files-2.1\521f36082ba2ebfff3134b14049d8392\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Sasha\.gradle\caches\transforms-2\files-2.1\1410242d4ef985e32783d8097bac5af8\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Sasha\.gradle\caches\transforms-2\files-2.1\1410242d4ef985e32783d8097bac5af8\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Sasha\.gradle\caches\transforms-2\files-2.1\a2820c8ee6ea054be8163c452f7d6b39\transition-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Sasha\.gradle\caches\transforms-2\files-2.1\a2820c8ee6ea054be8163c452f7d6b39\transition-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Sasha\.gradle\caches\transforms-2\files-2.1\35c3fbd601ae0234480e07fc02c66070\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Sasha\.gradle\caches\transforms-2\files-2.1\35c3fbd601ae0234480e07fc02c66070\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Sasha\.gradle\caches\transforms-2\files-2.1\80daeaca6f036ab992d59d7f985648c0\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Sasha\.gradle\caches\transforms-2\files-2.1\80daeaca6f036ab992d59d7f985648c0\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Sasha\.gradle\caches\transforms-2\files-2.1\ba941ec3e51f9e63a28205390b7e1196\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Sasha\.gradle\caches\transforms-2\files-2.1\ba941ec3e51f9e63a28205390b7e1196\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0-rc01] C:\Users\Sasha\.gradle\caches\transforms-2\files-2.1\399a3cab45ccfefa982b2d5781eea703\core-1.1.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0-rc01] C:\Users\Sasha\.gradle\caches\transforms-2\files-2.1\399a3cab45ccfefa982b2d5781eea703\core-1.1.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] C:\Users\Sasha\.gradle\caches\transforms-2\files-2.1\7aca424ebf8b772c19458fc4a6f7e049\versionedparcelable-1.1.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] C:\Users\Sasha\.gradle\caches\transforms-2\files-2.1\7aca424ebf8b772c19458fc4a6f7e049\versionedparcelable-1.1.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Sasha\.gradle\caches\transforms-2\files-2.1\3a157abb854187fccd45caa1b51d7a6d\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Sasha\.gradle\caches\transforms-2\files-2.1\3a157abb854187fccd45caa1b51d7a6d\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Sasha\.gradle\caches\transforms-2\files-2.1\6cb605609ce3e0233def045dd08f32ea\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Sasha\.gradle\caches\transforms-2\files-2.1\6cb605609ce3e0233def045dd08f32ea\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Sasha\.gradle\caches\transforms-2\files-2.1\a4800bd69aa5f1fb4a3075fb1b945104\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Sasha\.gradle\caches\transforms-2\files-2.1\a4800bd69aa5f1fb4a3075fb1b945104\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Sasha\.gradle\caches\transforms-2\files-2.1\728270ae329d44b91e2272f2a2469b7f\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Sasha\.gradle\caches\transforms-2\files-2.1\728270ae329d44b91e2272f2a2469b7f\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Sasha\.gradle\caches\transforms-2\files-2.1\424f8cee47ad96d5bf5ccdac145707ac\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Sasha\.gradle\caches\transforms-2\files-2.1\424f8cee47ad96d5bf5ccdac145707ac\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Sasha\.gradle\caches\transforms-2\files-2.1\ba1861cb5fdc02af084f1b568e0f9bd4\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Sasha\.gradle\caches\transforms-2\files-2.1\ba1861cb5fdc02af084f1b568e0f9bd4\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Sasha\.gradle\caches\transforms-2\files-2.1\d9e1c8e93250f2776f11901c821c4137\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Sasha\.gradle\caches\transforms-2\files-2.1\d9e1c8e93250f2776f11901c821c4137\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Sasha\.gradle\caches\transforms-2\files-2.1\b18dae995bcdf20fc7dd2fe5b67b8a1e\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Sasha\.gradle\caches\transforms-2\files-2.1\b18dae995bcdf20fc7dd2fe5b67b8a1e\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Sasha\.gradle\caches\transforms-2\files-2.1\3315cd4f34fecbb914c0547ad83f8664\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Sasha\.gradle\caches\transforms-2\files-2.1\3315cd4f34fecbb914c0547ad83f8664\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Sasha\.gradle\caches\transforms-2\files-2.1\f33aa17185c3708a5ad836b0b67dcf82\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Sasha\.gradle\caches\transforms-2\files-2.1\f33aa17185c3708a5ad836b0b67dcf82\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Sasha\.gradle\caches\transforms-2\files-2.1\4035bab8ba83c8378e720680d30eb8a9\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Sasha\.gradle\caches\transforms-2\files-2.1\4035bab8ba83c8378e720680d30eb8a9\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+INJECTED from D:\Projects\ARTack\WifiIndoorNavigation\app\src\main\AndroidManifest.xml
+INJECTED from D:\Projects\ARTack\WifiIndoorNavigation\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Projects\ARTack\WifiIndoorNavigation\app\src\main\AndroidManifest.xml
+		ADDED from D:\Projects\ARTack\WifiIndoorNavigation\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Projects\ARTack\WifiIndoorNavigation\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Projects\ARTack\WifiIndoorNavigation\app\src\main\AndroidManifest.xml
+		ADDED from D:\Projects\ARTack\WifiIndoorNavigation\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Projects\ARTack\WifiIndoorNavigation\app\src\main\AndroidManifest.xml

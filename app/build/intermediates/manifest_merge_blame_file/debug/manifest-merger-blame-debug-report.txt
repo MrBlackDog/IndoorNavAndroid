@@ -1,0 +1,68 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.wifiindoornavigation"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="22"
+8-->D:\Projects\ARTack\WifiIndoorNavigation\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="28" />
+9-->D:\Projects\ARTack\WifiIndoorNavigation\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+11-->D:\Projects\ARTack\WifiIndoorNavigation\app\src\main\AndroidManifest.xml:5:5-75
+11-->D:\Projects\ARTack\WifiIndoorNavigation\app\src\main\AndroidManifest.xml:5:22-73
+12    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+12-->D:\Projects\ARTack\WifiIndoorNavigation\app\src\main\AndroidManifest.xml:6:5-75
+12-->D:\Projects\ARTack\WifiIndoorNavigation\app\src\main\AndroidManifest.xml:6:22-73
+13    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+13-->D:\Projects\ARTack\WifiIndoorNavigation\app\src\main\AndroidManifest.xml:7:5-78
+13-->D:\Projects\ARTack\WifiIndoorNavigation\app\src\main\AndroidManifest.xml:7:22-76
+14    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+14-->D:\Projects\ARTack\WifiIndoorNavigation\app\src\main\AndroidManifest.xml:8:5-80
+14-->D:\Projects\ARTack\WifiIndoorNavigation\app\src\main\AndroidManifest.xml:8:22-78
+15    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+15-->D:\Projects\ARTack\WifiIndoorNavigation\app\src\main\AndroidManifest.xml:9:5-80
+15-->D:\Projects\ARTack\WifiIndoorNavigation\app\src\main\AndroidManifest.xml:9:22-78
+16
+17    <application
+17-->D:\Projects\ARTack\WifiIndoorNavigation\app\src\main\AndroidManifest.xml:10:5-28:19
+18        android:allowBackup="true"
+18-->D:\Projects\ARTack\WifiIndoorNavigation\app\src\main\AndroidManifest.xml:11:9-35
+19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+19-->[androidx.core:core:1.1.0-rc01] C:\Users\Sasha\.gradle\caches\transforms-2\files-2.1\399a3cab45ccfefa982b2d5781eea703\core-1.1.0-rc01\AndroidManifest.xml:24:18-86
+20        android:debuggable="true"
+21        android:icon="@mipmap/ic_launcher"
+21-->D:\Projects\ARTack\WifiIndoorNavigation\app\src\main\AndroidManifest.xml:12:9-43
+22        android:label="@string/app_name"
+22-->D:\Projects\ARTack\WifiIndoorNavigation\app\src\main\AndroidManifest.xml:13:9-41
+23        android:supportsRtl="true"
+23-->D:\Projects\ARTack\WifiIndoorNavigation\app\src\main\AndroidManifest.xml:14:9-35
+24        android:testOnly="true"
+25        android:theme="@style/AppTheme" >
+25-->D:\Projects\ARTack\WifiIndoorNavigation\app\src\main\AndroidManifest.xml:15:9-40
+26        <activity
+26-->D:\Projects\ARTack\WifiIndoorNavigation\app\src\main\AndroidManifest.xml:16:9-26:20
+27            android:name="com.example.wifiindoornavigation.MainActivity"
+27-->D:\Projects\ARTack\WifiIndoorNavigation\app\src\main\AndroidManifest.xml:17:13-41
+28            android:configChanges="keyboardHidden|orientation|screenSize"
+28-->D:\Projects\ARTack\WifiIndoorNavigation\app\src\main\AndroidManifest.xml:19:13-74
+29            android:label="@string/app_name"
+29-->D:\Projects\ARTack\WifiIndoorNavigation\app\src\main\AndroidManifest.xml:18:13-45
+30            android:theme="@style/AppTheme.NoActionBar" >
+30-->D:\Projects\ARTack\WifiIndoorNavigation\app\src\main\AndroidManifest.xml:20:13-56
+31            <intent-filter>
+31-->D:\Projects\ARTack\WifiIndoorNavigation\app\src\main\AndroidManifest.xml:21:13-25:29
+32                <action android:name="android.intent.action.MAIN" />
+32-->D:\Projects\ARTack\WifiIndoorNavigation\app\src\main\AndroidManifest.xml:22:17-69
+32-->D:\Projects\ARTack\WifiIndoorNavigation\app\src\main\AndroidManifest.xml:22:25-66
+33
+34                <category android:name="android.intent.category.LAUNCHER" />
+34-->D:\Projects\ARTack\WifiIndoorNavigation\app\src\main\AndroidManifest.xml:24:17-77
+34-->D:\Projects\ARTack\WifiIndoorNavigation\app\src\main\AndroidManifest.xml:24:27-74
+35            </intent-filter>
+36        </activity>
+37    </application>
+38
+39</manifest>
